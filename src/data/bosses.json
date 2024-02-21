@@ -1,33 +1,245 @@
 [
     {
-        "id":0,
-        "name":"Asylum Demon" ,
-        "location": "somewhere",
-        "health":199,
-        "souls":122,
+        "id": 0,
+        "name": "Asylum Demon",
+        "location": "Undead Asylum",
+        "health": 825,
+        "souls": 2000,
         "image": "/AsylumDemon.jpg",
-        "defeated":false
+        "defeated": false
     },
-{
-        "id":1,
-        "name":"Bell Gargoyle" ,
-        "location": "somewhere",
-        "health":199,
-        "souls":122,
-        "image":"/BellGargoyle.webp",
-        "defeated":false
-
+    {
+        "id": 1,
+        "name": "Taurus Demon",
+        "location": "Undead Burf",
+        "health": 1215,
+        "souls": 3000,
+        "image": "/AsylumDemon.jpg",
+        "defeated": false
     },
-{
-        "id":2,
-        "name":"Capra Demon" ,
-        "location": "somewhere",
-        "health":199,
-        "souls":122,
+    {
+        "id": 2,
+        "name": "Bell Gargoyle",
+        "location": "Undead Parish",
+        "health": 1000,
+        "souls": 10000,
+        "image": "/BellGargoyle.webp",
+        "defeated": false
+    },
+    {
+        "id": 3,
+        "name": "Capra Demon",
+        "location": "Undead Burg",
+        "health": 1176,
+        "souls": 6000,
         "image": "/CapraDemon.webp",
-        "defeated":false
-
+        "defeated": false
+    },
+    {
+        "id": 4,
+        "name": "Gaping Dragon",
+        "location": "Depths",
+        "health": 4401,
+        "souls": 25000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 5,
+        "name": "Chaos Witch Quelaag",
+        "location": "Blighttown",
+        "health": 3139,
+        "souls": 20000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 6,
+        "name": "Moonlight Butterfly",
+        "location": "Darkroot Garden",
+        "health": 1255,
+        "souls": 10000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 7,
+        "name": "Stray Demon",
+        "location": "Undead Asylum",
+        "health": 5250,
+        "souls": 20000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 8,
+        "name": "Iron Golem",
+        "location": "Sen´s Fortress",
+        "health": 2880,
+        "souls": 40000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 9,
+        "name": "Ornstein and Smough",
+        "location": "Anor Londo",
+        "health": "1642/2981",
+        "souls": 50000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 10,
+        "name": "Great Grey Wolf Sif",
+        "location": "Darkroot Garden",
+        "health": 3432,
+        "souls": 40000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 11,
+        "name": "Crossbreed Priscilla",
+        "location": "Painted World of Ariamis",
+        "health": 2300,
+        "souls": 30000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 12,
+        "name": "Four Kings",
+        "location": "Abyss",
+        "health": 9604,
+        "souls": 60000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 13,
+        "name": "Dark Sun Gwyndolin",
+        "location": "Anor Londo",
+        "health": 2000,
+        "souls": 40000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 14,
+        "name": "Seath the Scaleless",
+        "location": "Crystal cave",
+        "health": 5525,
+        "souls": 60000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 15,
+        "name": "Pinwheel",
+        "location": "The Catacombs",
+        "health": 1326,
+        "souls": 15000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 16,
+        "name": "Gravelord Nito",
+        "location": "Tomb of Giants",
+        "health": 4217,
+        "souls": 60000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 17,
+        "name": "Ceaseless Discharge",
+        "location": "Demon Ruins",
+        "health": 4200,
+        "souls": 20000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 18,
+        "name": "Centipede Demon",
+        "location": "Demon Ruins",
+        "health": 3432,
+        "souls": 40000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 19,
+        "name": "Demon Firesage",
+        "location": "Demon Ruins",
+        "health": 5950,
+        "souls": 20000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 20,
+        "name": "Demon Firesage",
+        "location": "Demon Ruins",
+        "health": 5950,
+        "souls": 20000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 21,
+        "name": "The Bed of Chaos",
+        "location": "Lost Izalith",
+        "health": 2,
+        "souls": 60000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 22,
+        "name": "Sanctuary Guardian",
+        "location": "Sanctuary Garden",
+        "health": 2560,
+        "souls": 30000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 23,
+        "name": "Artorias the Abysswalker",
+        "location": "Royal woods",
+        "health": 3750,
+        "souls": 50000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 24,
+        "name": "Black Dragon Kalameet",
+        "location": "Royal woods",
+        "health": 5400,
+        "souls": 60000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 25,
+        "name": "Manus, The Father of The Abyss",
+        "location": "Chasm of the Abyss",
+        "health": 6665,
+        "souls": 60000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
+    },
+    {
+        "id": 26,
+        "name": "Gwyn Lord of Cinder",
+        "location": "Kiln of the First Flame",
+        "health": 4250,
+        "souls": 70000,
+        "image": "/CapraDemon.webp",
+        "defeated": false
     }
-
-
 ]
