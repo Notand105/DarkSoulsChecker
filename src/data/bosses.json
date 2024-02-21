@@ -1,0 +1,33 @@
+[
+    {
+        "id":0,
+        "name":"Asylum Demon" ,
+        "location": "somewhere",
+        "health":199,
+        "souls":122,
+        "image": "/AsylumDemon.jpg",
+        "defeated":false
+    },
+{
+        "id":1,
+        "name":"Bell Gargoyle" ,
+        "location": "somewhere",
+        "health":199,
+        "souls":122,
+        "image":"/BellGargoyle.webp",
+        "defeated":false
+
+    },
+{
+        "id":2,
+        "name":"Capra Demon" ,
+        "location": "somewhere",
+        "health":199,
+        "souls":122,
+        "image": "/CapraDemon.webp",
+        "defeated":false
+
+    }
+
+
+]
