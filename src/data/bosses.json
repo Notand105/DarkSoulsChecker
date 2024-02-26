@@ -14,7 +14,7 @@
         "location": "Undead Burf",
         "health": 1215,
         "souls": 3000,
-        "image": "/AsylumDemon.jpg",
+        "image": "/TaurusDemon.webp",
         "defeated": false
     },
     {
@@ -41,7 +41,7 @@
         "location": "Depths",
         "health": 4401,
         "souls": 25000,
-        "image": "/CapraDemon.webp",
+        "image": "/GapingDragon.webp",
         "defeated": false
     },
     {
@@ -50,7 +50,7 @@
         "location": "Blighttown",
         "health": 3139,
         "souls": 20000,
-        "image": "/CapraDemon.webp",
+        "image": "/Quelaag.webp",
         "defeated": false
     },
     {
@@ -59,7 +59,7 @@
         "location": "Darkroot Garden",
         "health": 1255,
         "souls": 10000,
-        "image": "/CapraDemon.webp",
+        "image": "/moonlightButterfly.jpg",
         "defeated": false
     },
     {
@@ -68,7 +68,7 @@
         "location": "Undead Asylum",
         "health": 5250,
         "souls": 20000,
-        "image": "/CapraDemon.webp",
+        "image": "/strayDemon.jpg",
         "defeated": false
     },
     {
@@ -77,7 +77,7 @@
         "location": "Sen´s Fortress",
         "health": 2880,
         "souls": 40000,
-        "image": "/CapraDemon.webp",
+        "image": "/IronGolem.webp",
         "defeated": false
     },
     {
@@ -86,7 +86,7 @@
         "location": "Anor Londo",
         "health": "1642/2981",
         "souls": 50000,
-        "image": "/CapraDemon.webp",
+        "image": "/ornsteinysmough.jpg",
         "defeated": false
     },
     {
@@ -95,7 +95,7 @@
         "location": "Darkroot Garden",
         "health": 3432,
         "souls": 40000,
-        "image": "/CapraDemon.webp",
+        "image": "/sif.jpeg",
         "defeated": false
     },
     {
@@ -104,7 +104,7 @@
         "location": "Painted World of Ariamis",
         "health": 2300,
         "souls": 30000,
-        "image": "/CapraDemon.webp",
+        "image": "/priscilla.webp",
         "defeated": false
     },
     {
@@ -113,7 +113,7 @@
         "location": "Abyss",
         "health": 9604,
         "souls": 60000,
-        "image": "/CapraDemon.webp",
+        "image": "/fourkings.jpeg",
         "defeated": false
     },
     {
@@ -122,7 +122,7 @@
         "location": "Anor Londo",
         "health": 2000,
         "souls": 40000,
-        "image": "/CapraDemon.webp",
+        "image": "/gwynolin.jpg",
         "defeated": false
     },
     {

@@ -13,7 +13,14 @@ import ListOfBosses from '../components/ListOfBosses.svelte'
 	</head>
 	<body>
 		<h1>Astro</h1>
-		<ListOfBosses  client:load />
+		<ListOfBosses  client:only />
 
 	</body>
 </html>
+
+<style>
+	body{
+		background-color: #071015;
+		color: white;
+	}
+</style>
