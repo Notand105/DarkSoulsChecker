@@ -27,7 +27,7 @@
                 />
                     
                 <div class="flex flex-col items-center">
-                    <h3 class="text-xl font-bold">{boss.name}</h3>
+                    <h3 class="text-xl font-bold text-center"><span class="text-sm secondary">#{boss.id + 1 } </span>{boss.name}</h3>
                     <h4 class="text-lg primary italic">Location: {boss.location}</h4>
                     <h4>Health: {boss.health}</h4>
                     <h4>Souls: {boss.souls}</h4>
@@ -68,8 +68,8 @@
         /* background-color: #F4EFDE; */
         color: #9ec8dc;
     }
-    /* .secondary{
+     .secondary{
         color: #7e2d4c;
-    } */
+    }
     
 </style>

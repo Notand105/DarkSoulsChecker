@@ -131,7 +131,7 @@
         "location": "Crystal cave",
         "health": 5525,
         "souls": 60000,
-        "image": "/CapraDemon.webp",
+        "image": "/seath.jpg",
         "defeated": false
     },
     {
@@ -140,7 +140,7 @@
         "location": "The Catacombs",
         "health": 1326,
         "souls": 15000,
-        "image": "/CapraDemon.webp",
+        "image": "/pinwheel.jpg",
         "defeated": false
     },
     {
@@ -149,7 +149,7 @@
         "location": "Tomb of Giants",
         "health": 4217,
         "souls": 60000,
-        "image": "/CapraDemon.webp",
+        "image": "/nito.webp",
         "defeated": false
     },
     {
@@ -158,7 +158,7 @@
         "location": "Demon Ruins",
         "health": 4200,
         "souls": 20000,
-        "image": "/CapraDemon.webp",
+        "image": "/ceas.jpg",
         "defeated": false
     },
     {
@@ -167,7 +167,7 @@
         "location": "Demon Ruins",
         "health": 3432,
         "souls": 40000,
-        "image": "/CapraDemon.webp",
+        "image": "/cent.jpg",
         "defeated": false
     },
     {
@@ -176,70 +176,62 @@
         "location": "Demon Ruins",
         "health": 5950,
         "souls": 20000,
-        "image": "/CapraDemon.webp",
+        "image": "/firesage.webp",
         "defeated": false
     },
+    
     {
         "id": 20,
-        "name": "Demon Firesage",
-        "location": "Demon Ruins",
-        "health": 5950,
-        "souls": 20000,
-        "image": "/CapraDemon.webp",
-        "defeated": false
-    },
-    {
-        "id": 21,
         "name": "The Bed of Chaos",
         "location": "Lost Izalith",
         "health": 2,
         "souls": 60000,
-        "image": "/CapraDemon.webp",
+        "image": "/bed.jpg",
         "defeated": false
     },
     {
-        "id": 22,
+        "id": 21,
         "name": "Sanctuary Guardian",
         "location": "Sanctuary Garden",
         "health": 2560,
         "souls": 30000,
-        "image": "/CapraDemon.webp",
+        "image": "/sanc.jpg",
         "defeated": false
     },
     {
-        "id": 23,
+        "id": 22,
         "name": "Artorias the Abysswalker",
         "location": "Royal woods",
         "health": 3750,
         "souls": 50000,
-        "image": "/CapraDemon.webp",
+        "image": "/artorias.jpg",
         "defeated": false
     },
     {
-        "id": 24,
+        "id": 23,
         "name": "Black Dragon Kalameet",
         "location": "Royal woods",
         "health": 5400,
         "souls": 60000,
-        "image": "/CapraDemon.webp",
+        "image": "/kala.webp",
         "defeated": false
     },
     {
-        "id": 25,
+        "id": 24,
         "name": "Manus, The Father of The Abyss",
         "location": "Chasm of the Abyss",
         "health": 6665,
         "souls": 60000,
-        "image": "/CapraDemon.webp",
+        "image": "/manus.jpg",
         "defeated": false
     },
     {
-        "id": 26,
+        "id": 25,
         "name": "Gwyn Lord of Cinder",
         "location": "Kiln of the First Flame",
         "health": 4250,
         "souls": 70000,
-        "image": "/CapraDemon.webp",
+        "image": "/gwyn.jpg",
         "defeated": false
     }
 ]
