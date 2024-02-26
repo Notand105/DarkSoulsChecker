@@ -1,6 +1,6 @@
 ---
-import ListOfBosses from '../components/ListOfBosses.svelte'
-
+import ListOfBosses from "../components/ListOfBosses.svelte";
+import Hero from "../components/Hero.astro"
 ---
 
 <html lang="en">
@@ -9,18 +9,19 @@ import ListOfBosses from '../components/ListOfBosses.svelte'
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>Dark Souls Checker</title>
 	</head>
 	<body>
-		<h1>Astro</h1>
-		<ListOfBosses  client:only />
-
+		<Hero />
+		<ListOfBosses client:only />
 	</body>
 </html>
 
 <style>
-	body{
-		background-color: #071015;
+	body {
+		background-color: #0c0708;
 		color: white;
+		overflow-x: hidden;
 	}
+
 </style>
