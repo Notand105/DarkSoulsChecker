@@ -1,0 +1,297 @@
+{
+    "boss": [
+        {
+            "name": "Chaos Blade",
+            "description": "You must ascend a +10 Katana and the soul of Quelaag. ",
+            "obtained": false
+        },
+        {
+            "name": "Crystal Ring Shield ",
+            "description": "Ascend a +10 shield or buckler, and the soul of The Moonlight Butterfly. Practically any shield can be used given that it's been upgraded to +10. ",
+            "obtained": false
+        },
+        {
+            "name": "Darkmoon Bow ",
+            "description": "Ascend any +10 Bow, and the soul of Gwyndolin.",
+            "obtained": false
+        },
+        {
+            "name": "Dragon Bone Fist ",
+            "description": "Ascend any +10 Cestus or Claw, and the core of the Iron Golem.",
+            "obtained": false
+        },
+        {
+            "name": "Dragonslayer Spear ",
+            "description": "Ascend any +10 Spear or Rapier, and the soul of Ornstein. ",
+            "obtained": false
+        },
+        {
+            "name": "Golem Axe ",
+            "description": "Ascend any +10 Axe, and the core of the Iron Golem.",
+            "obtained": false
+        },
+        {
+            "name": "Great Lord Greatsword ",
+            "description": "Ascend a +10 dagger, sword or greatsword, and the soul of Gwyn, The Lord of Cinder (can only be done on NG+).",
+            "obtained": false
+        },
+        {
+            "name": "Greatshield of Artorias ",
+            "description": "Ascend a +10 shield or buckler and the soul of Sif, The Great Grey Wolf. ",
+            "obtained": false
+        },
+        {
+            "name": "Greatsword of Artorias (Cursed) ",
+            "description": "You must Ascend a +10 Dagger, Sword or Greatsword, with the soul of Sif, The Great Gray Wolf. Using these weapons for ascension will give you the cursed version of the Greatsword of Artorias. The name will not indicate any difference between the true and cursed variant, but the cursed version has a stat requirement of 18 for Faith and Intelligence.",
+            "obtained": false
+        },
+        {
+            "name": "Greatsword of Artorias (True)",
+            "description": "You must ascend a +10 Broken sword, and the soul of Sif, The Great Gray Wolf. Basic Zombies or the Defiled in Blighttown will usually drop broken swords. The name will not indicate it is the true version of the greatsword, but it has higher stat requirements of 20 for faith and intelligence.",
+            "obtained": false
+        },
+        {
+            "name": "Lifehunt Scythe",
+            "description": "Ascend any +10 Halberd, Scythe or Whip, and the soul of Priscilla. Unlike other Boss Souls, Priscilla's soul only ascends one weapon. ",
+            "obtained": false
+        },
+        {
+            "name": "Moonlight Butterfly Horn ",
+            "description": "Ascend any +10 Spear or Rapier, and the soul of the Moonlight Butterfly.",
+            "obtained": false
+        },
+        {
+            "name": "Quelaag's Furysword",
+            "description": "Ascend a +10 Curved Sword, and the soul of Quelaag. A scimatar is a good choice.",
+            "obtained": false
+        },
+        {
+            "name": "Smough's Hammer",
+            "description": "Ascend a +10 Hammer or Great Hammer and the soul of Smough.",
+            "obtained": false
+        },
+        {
+            "name": "Tin Darkmoon Catalyst ",
+            "description": "Ascend any Catalyst and the soul of Gwyndolin, The Darkmoon God. Ascension of the original catalyst is not needed, as it cannot be done. The sorcerer's catalyst is the best choice for ascension. ",
+            "obtained": false
+        }
+    ],
+    "drop": [
+        {
+            "name": "Black Knight Greataxe",
+            "description": "Random drop from Axe-wielding Black knights.",
+            "obtained": false
+        },
+        {
+            "name": "Black Knight Greatsword",
+            "description": "Random drop from Greatsword-wielding Black Knights.",
+            "obtained": false
+        },
+        {
+            "name": "Black Knight Halberd",
+            "description": "Random drop from Halberd-wielding Black Knights.",
+            "obtained": false
+        },
+        {
+            "name": "Black Knight Shield",
+            "description": "Random drop from any Black Knight.",
+            "obtained": false
+        },
+        {
+            "name": "Black Knight Sword",
+            "description": "Random drop from any Sword-Wielding Black Knight.",
+            "obtained": false
+        },
+        {
+            "name": "Channeler's Trident",
+            "description": "Rare random drop from Channelers. Three respawning channelers can be found in The Duke's Archives.",
+            "obtained": false
+        },
+        {
+            "name": "Crest Shield",
+            "description": "Found in the Undead Asylum (revisited). Acquired as drop from the now hollow Oscar who first gave you the Estus Flask.",
+            "obtained": false
+        },
+        {
+            "name": "Crescent Axe*",
+            "description": "Acquired by killing Patches, or it can be purchased from him when he moves to Firelink Shrine.",
+            "obtained": false
+        },
+        {
+            "name": "Demon's Spear (maybe?)",
+            "description": "Rare Random drop from the Bat Wing Demons in Anor Londo (whilst sunlit). Can also be purchased from Shiva of the East in Blighttown, if you are a member of the Forest Hunter's Covenant.",
+            "obtained": false
+        },
+        {
+            "name": "Giant's Halberd*",
+            "description": "Rare random drop from the giant gold knights in Anor Londo (whilst sunlit). It can more easily be purchased from the Giant Blacksmith for 5000 souls.",
+            "obtained": false
+        },
+        {
+            "name": "Grant ",
+            "description": "Acquired by killing NPC invader Paladin Leeroy. He will invade you in The Tomb of Giants just before Nito's domain, down near the area that overlooks the distant Ash Lake.",
+            "obtained": false
+        },
+        {
+            "name": "Sanctus ",
+            "description": "Acquired by killing NPC invader Paladin Leeroy. He will invade you in The Tomb of Giants just before Nito's domain, down near the area that overlooks the distant Ash Lake.",
+            "obtained": false
+        },
+        {
+            "name": "Silver Knight Shield",
+            "description": "Anor Londo. Random drop from any Silver Knight.",
+            "obtained": false
+        },
+        {
+            "name": "Silver Knight Spear",
+            "description": "Anor Londo. Random drop from Spear-wielding Silver Knights.",
+            "obtained": false
+        },
+        {
+            "name": "Silver Knight Straight Sword",
+            "description": "Anor Londo.Random drop from Sword-wielding Silver Knights.",
+            "obtained": false
+        },
+        {
+            "name": "Stone Greatshield",
+            "description": "Darkroot Garden. Random drop from the Stone Knights.",
+            "obtained": false
+        },
+        {
+            "name": "Stone Greatsword",
+            "description": "Darkroot Garden. Rare random drop from the Stone Knights. Can more easily be purchased from Shiva of the East, if you are a member of the Forest Covenant.",
+            "obtained": false
+        }
+    ],
+    "trasure": [
+        {
+            "name": "Black Knight Greataxe",
+            "description": "Random drop from Axe-wielding Black knights.",
+            "obtained": false
+        },
+        {
+            "name": "Black Knight Greatsword",
+            "description": "Random drop from Greatsword-wielding Black Knights.",
+            "obtained": false
+        },
+        {
+            "name": "Black Knight Halberd",
+            "description": "Random drop from Halberd-wielding Black Knights.",
+            "obtained": false
+        },
+        {
+            "name": "Black Knight Shield",
+            "description": "Random drop from any Black Knight.",
+            "obtained": false
+        },
+        {
+            "name": "Black Knight Sword",
+            "description": "Random drop from any Sword-Wielding Black Knight.",
+            "obtained": false
+        },
+        {
+            "name": "Channeler's Trident*",
+            "description": "Rare random drop from Channelers. Three respawning channelers can be found in The Duke's Archives. (Thanks to Waggonforce for confirming * weapons)",
+            "obtained": false
+        },
+        {
+            "name": "Crest Shield",
+            "description": "Found in the Undead Asylum (revisited). Acquired as drop from the now hollow Oscar who first gave you the Estus Flask.",
+            "obtained": false
+        },
+        {
+            "name": "Crescent Axe*",
+            "description": "Acquired by killing Patches, or it can be purchased from him when he moves to Firelink Shrine.",
+            "obtained": false
+        },
+        {
+            "name": "Demon's Spear",
+            "description": "Rare Random drop from the Bat Wing Demons in Anor Londo (whilst sunlit). Can also be purchased from Shiva of the East in Blighttown, if you are a member of the Forest Hunter's Covenant.",
+            "obtained": false
+        },
+        {
+            "name": "Giant's Halberd*",
+            "description": "Rare random drop from the giant gold knights in Anor Londo (whilst sunlit). It can more easily be purchased from the Giant Blacksmith for 5000 souls.",
+            "obtained": false
+        },
+        {
+            "name": "Grant ",
+            "description": "Acquired by killing NPC invader Paladin Leeroy. He will invade you in The Tomb of Giants just before Nito's domain, down near the area that overlooks the distant Ash Lake.",
+            "obtained": false
+        },
+        {
+            "name": "Sanctus ",
+            "description": "Acquired by killing NPC invader Paladin Leeroy. He will invade you in The Tomb of Giants just before Nito's domain, down near the area that overlooks the distant Ash Lake.",
+            "obtained": false
+        },
+        {
+            "name": "Silver Knight Shield",
+            "description": "Anor Londo. Random drop from any Silver Knight.",
+            "obtained": false
+        },
+        {
+            "name": "Silver Knight Spear",
+            "description": "Anor Londo. Random drop from Spear-wielding Silver Knights.",
+            "obtained": false
+        },
+        {
+            "name": "Silver Knight Straight Sword",
+            "description": "Anor Londo.Random drop from Sword-wielding Silver Knights.",
+            "obtained": false
+        },
+        {
+            "name": "Stone Greatshield",
+            "description": "Darkroot Garden. Random drop from the Stone Knights.",
+            "obtained": false
+        },
+        {
+            "name": "Stone Greatsword",
+            "description": "Darkroot Garden. Rare random drop from the Stone Knights. Can more easily be purchased from Shiva of the East, if you are a member of the Forest Covenant.",
+            "obtained": false
+        }
+    ],
+    "covenants": [
+        {
+            "name": "Dark Hand",
+            "description": "Given as a gift when joining Darkwraith Covenant. (Can also be obtained as a drop from the NPC Darkwraiths in New Londo Ruins)",
+            "obtained": false
+        },
+        {
+            "name": "Gravelord Sword",
+            "description": "Given as a gift when joining Gravelord Servant Covenant. (confirmed by SilverKnightDragon)",
+            "obtained": false
+        }
+    ],
+    "tails": [
+        {
+            "name": "Dragon King Greataxe",
+            "description": "The Depths. Cut off the tail of the Gaping Dragon.",
+            "obtained": false
+        },
+        {
+            "name": "Dragon Greatsword",
+            "description": "Cut the tail off of the Ancient Dragon in Ash Lake. As long as you don't attack the body, this will not anger the dragon or break the covenant.",
+            "obtained": false
+        },
+        {
+            "name": "Drake Sword",
+            "description": "Undead Burg. Use arrows to shoot the tail of the Red Drake, or Bridge Wyvern, from underneath the bridge. It can also be cut off from on top of the bridge, if the Bridge Wyvern has landed to attack you. ",
+            "obtained": false
+        },
+        {
+            "name": "Moonlight Greatsword",
+            "description": "Crystal Cave. Cut off the tail of Seath The Scaleless, once the immortality crystal has been broken. (Seath's tail cannot be cut off in your first encounter)",
+            "obtained": false
+        },
+        {
+            "name": "Priscilla's Dagger",
+            "description": "Painted World of Ariamis. Cut off the tail of Priscilla - this can be difficult to do considering her ability to turn invisible, so consider careful strikes or weak weapons. Tag her with a throwing knife so you can track her while invisible. use weak weapons or the Force spell to break her poise, then go for her",
+            "obtained": false
+        },
+        {
+            "name": "Gargoyle Tail Axe",
+            "description": "Undead Parish. During the boss fight, cut off the tail of the first Bell Gargoyle. Easier if focused down before 2nd Gargoyle comes into the fight. It can also be obtained from the two gargoyles near the beginning of Anor Londo. ",
+            "obtained": false
+        }
+    ]
+}

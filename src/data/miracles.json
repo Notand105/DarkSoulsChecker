@@ -1,0 +1,125 @@
+{
+    "sold": [
+        {
+            "name": "Seek Guidance",
+            "location": " sold by Rhea for 500 ",
+            "obtained": false
+        },
+        {
+            "name": "Heal",
+            "location": " sold by Rhea for 1000 ",
+            "obtained": false
+        },
+        {
+            "name": "Homeward",
+            "location": " sold by Rhea for 1000 ",
+            "obtained": false
+        },
+        {
+            "name": "Force",
+            "location": " sold by Rhea for 1000 ",
+            "obtained": false
+        },
+        {
+            "name": "Great Heal Excerpt",
+            "location": " sold by Rhea for 2000 ",
+            "obtained": false
+        },
+        {
+            "name": "Magic Barrier",
+            "location": " sold by Rhea for 6000 ",
+            "obtained": false
+        },
+        {
+            "name": "Wrath of the Gods",
+            "location": " sold by Rhea for 10000 ",
+            "obtained": false
+        },
+        {
+            "name": "Great Heal",
+            "location": " sold by Rhea for 1000 ",
+            "obtained": false
+        },
+        {
+            "name": "Karmic Justice",
+            "location": " sold by Oswald for 40,000 ",
+            "obtained": false
+        }
+    ],
+    "drop": [
+        {
+            "name": "Bountiful Sunlight",
+            "location": "100% drop by an enemy in the prison section of the Duke's Archives",
+            "obtained": false
+        },
+        {
+            "name": "Soothing Sunlight",
+            "location": "100% drop by an enemy in the prison section of the Duke's Archives",
+            "obtained": false
+        },
+        {
+            "name": "Great Magic Barrier:",
+            "location": "found on a corpse in Ash Lake",
+            "obtained": false
+        },
+        {
+            "name": "Sunlight Blade",
+            "location": "found in a chest after defeating Dark Sun Gwyndolin",
+            "obtained": false
+        },
+        {
+            "name": "Tranquil Walk of Peace",
+            "location": "found on a corpse in the Catacombs",
+            "obtained": false
+        },
+        {
+            "name": "Vow of Silence",
+            "location": "found on a corpse in the annex area of the Painted World of Ariamis",
+            "obtained": false
+        }
+    ],
+    "covenant": [
+        {
+            "name": "Gravelord Sword Dance",
+            "location": "join the Gravelord Servant covenants",
+            "obtained": false
+        },
+        {
+            "name": "Gravelord Greatsword Dance",
+            "location": "offer 10 Eye of Death to the Gravelord Servant covenant",
+            "obtained": false
+        },
+        {
+            "name": "Darkmoon Blade",
+            "location": "offer 10 Souvenir of Reprisal to the Darkmoon Blade covenant",
+            "obtained": false
+        },
+        {
+            "name": "Lightning Spear",
+            "location": "Join the Warrior of Sunlight covenant (at least 25 faith)",
+            "obtained": false
+        },
+        {
+            "name": "Great Lightning Spear",
+            "location": "offer 10 Sunlight Medals to the Warrior of Sunlight covenant",
+            "obtained": false
+        },
+        {
+            "name": "Sunlight Spear",
+            "location": "offer the Soul of Gwyn to the Warrior of Sunlight covenant",
+            "obtained": false
+        }
+    ],
+    "npc": [
+        {
+            "name": "Emit Force",
+            "location": "is given by Siegmeyer once he relocates to Firelink Shrine",
+            "obtained": false
+        },
+        {
+            "name": "Replenishment",
+            "location": "is given by Rhea after defeating Nico and Vince in the Tomb of the Giants",
+            "obtained": false
+        }
+    ]
+}

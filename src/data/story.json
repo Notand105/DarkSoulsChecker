@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Enkindle",
+        "description": "Light a bonfire",
+        "obtained": false
+    },
+    {
+        "name": "Estus Flask",
+        "description": "Acquire an estus flask",
+        "obtained": false
+    },
+    {
+        "name": " Ring the Bell (Undead Church)",
+        "description": "Ring the bell that is found within the Undead Parish",
+        "obtained": false
+    },
+    {
+        "name": "Ring the Bell (Quelaag’s Domain)",
+        "description": "Ring the bell that is found within Quelaag’s Domain.",
+        "obtained": false
+    },
+    {
+        "name": "Rite of Kindling",
+        "description": "Acquire the Rite of Kindling",
+        "obtained": false
+    },
+    {
+        "name": "Art of Abysswalking",
+        "description": "Acquire the Covenant of Artorias",
+        "obtained": false
+    },
+    {
+        "name": "Reach Anor Londo",
+        "description": "Arrive in Anor Londo",
+        "obtained": false
+    },
+    {
+        "name": "Lordvessel",
+        "description": "Acquire the Lordvessel within Anor Londo",
+        "obtained": false
+    },
+    {
+        "name": "To Link the Fire",
+        "description": "Achieve the ‘To Link the Fire’ ending.",
+        "obtained": false
+    },
+    {
+        "name": "Dark Lord",
+        "description": "Achieve the ‘Dark Lord’ ending.",
+        "obtained": false
+    },
+    {
+        "name": "Strongest Weapon",
+        "description": "Reinforce a weapon with a regular path using titanite shards, large titanite shards, titanite chunks, and a titanite slab.",
+        "obtained": false
+    },
+    {
+        "name": "Crystal Weapon",
+        "description": "Reinforce a weapon with a crystal path using titanite chunks and a titanite slab.",
+        "obtained": false
+    },
+    {
+        "name": "Lightning Weapon",
+        "description": "Reinforce a weapon with a lightning path using titanite chunks and a titanite slab.",
+        "obtained": false
+    },
+    {
+        "name": "Raw Weapon",
+        "description": "Reinforce a weapon with a raw path using large titanite shards",
+        "obtained": false
+    },
+    {
+        "name": "Magic Weapon",
+        "description": "Reinforce a weapon with a magic path using green shards, blue chunks, and a blue slab",
+        "obtained": false
+    },
+    {
+        "name": "Enchanted Weapon",
+        "description": "Reinforce a weapon with an enchanted path using blue chunks and a blue slab",
+        "obtained": false
+    },
+    {
+        "name": "Divine Weapon",
+        "description": "Reinforce a weapon with a divine path using green shards, white chunks, and a white slab",
+        "obtained": false
+    },
+    {
+        "name": "Occult Weapon",
+        "description": "Reinforce a weapon with a occult path using white chunks and a white slab",
+        "obtained": false
+    },
+    {
+        "name": "Fire Weapon ",
+        "description": "Reinforce a weapon with a fire path using green shards, red chunks, and a red slab",
+        "obtained": false
+    },
+    {
+        "name": "Chaos Weapon",
+        "description": "Reinforce a weapon with a chaos path using red chunks and a red slab",
+        "obtained": false
+    },
+    {
+        "name": "Covenant: Way of White",
+        "description": "Join the Way of White covenant.",
+        "obtained": false
+    },
+    {
+        "name": "Covenant: Princess’s Guard",
+        "description": "Join the Princess’s Guard covenant.",
+        "obtained": false
+    },
+    {
+        "name": "Covenant: Blade of the Darkmoon",
+        "description": "Join the Blade of the Darkmoon covenant.",
+        "obtained": false
+    },
+    {
+        "name": "Covenant: Warrior of Sunlight",
+        "description": "Join the Warrior of Sunlight covenant.",
+        "obtained": false
+    },
+    {
+        "name": "Covenant: Forest Hunter",
+        "description": "Join the Forest Hunter covenant.",
+        "obtained": false
+    },
+    {
+        "name": "Covenant: Darkwraith",
+        "description": "Join the Darkwraith covenant.",
+        "obtained": false
+    },
+    {
+        "name": "Covenant: Path of the Dragon",
+        "description": "Join the Path of the Dragon covenant",
+        "obtained": false
+    },
+    {
+        "name": "Covenant: Gravelord Servant",
+        "description": "Join the Gravelord Servant covenant.",
+        "obtained": false
+    },
+    {
+        "name": "Covenant: Chaos Servant",
+        "description": "Join the Chaos Servant covenant.",
+        "obtained": false
+    }
+]

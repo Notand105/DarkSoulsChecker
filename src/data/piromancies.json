@@ -1,0 +1,100 @@
+{
+    "sold": [
+        {
+            "name": "Iron Flesh",
+            "location": "sold by Laurentius for 2000 Souls",
+            "obtained": false
+        },
+        {
+            "name": "Flesh Sweat",
+            "location": "sold by Laurentius for 2000 Souls",
+            "obtained": false
+        },
+        {
+            "name": "Fireball",
+            "location": "sold by Laurentius for 800 Souls",
+            "obtained": false
+        },
+        {
+            "name": "Great Combustion",
+            "location": "sold by Quelana for 5000 Souls",
+            "obtained": false
+        },
+        {
+            "name": "Fire Orb",
+            "location": "sold by Quelana for 8000 Souls",
+            "obtained": false
+        },
+        {
+            "name": "Undead Rapport",
+            "location": "sold by Quelana for 10000 Souls",
+            "obtained": false
+        },
+        {
+            "name": "Fire Whip",
+            "location": "sold by Quelana for 10000 Souls",
+            "obtained": false
+        },
+        {
+            "name": "Great Fireball",
+            "location": "sold by Quelana for 20000 Souls",
+            "obtained": false
+        },
+        {
+            "name": "Firestorm",
+            "location": "sold by Quelana for 30000 Souls",
+            "obtained": false
+        },
+        {
+            "name": "Toxic Mist",
+            "location": "sold by Quelana for 25000 Souls",
+            "obtained": false
+        }
+    ],
+    "drop": [
+        {
+            "name": "Power Within",
+            "location": "found on a corpse in Blighttown near the Parasitic Wall Hugger enemy",
+            "obtained": false
+        },
+        {
+            "name": "Poison Mist",
+            "location": "found on a corpse in Blighttown; sold by Eingyi for 10000 souls",
+            "obtained": false
+        },
+        {
+            "name": "Chaos Fire Whip",
+            "location": "found in a chest in Lost Izalith near the Bed of Chaos fog wall",
+            "obtained": false
+        },
+        {
+            "name": "Acid Surge",
+            "location": "found on a corpse in the Painted World of Ariamis near where Xanthous King Jeremiah invades",
+            "obtained": false
+        },
+        {
+            "name": "Fire Surge",
+            "location": "100% drop by an Engorged Zombie in the Painted World of Ariamis",
+            "obtained": false
+        }
+    ],
+    "covenant": [
+        {
+            "name": "Great Chaos Fireball",
+            "location": "join the Daughter of Chaos covenant",
+            "obtained": false
+        },
+        {
+            "name": "Chaos Storm",
+            "location": "offer 30 humanity to the Daughter of Chaos covenant",
+            "obtained": false
+        }
+    ],
+    "npc": [
+        {
+            "name": "Fire Tempest",
+            "location": "given by Qualana after defeating the Bed of Chaos",
+            "obtained": false
+        }
+    ]
+}

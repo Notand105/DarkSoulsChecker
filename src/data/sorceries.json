@@ -1,0 +1,129 @@
+{
+    "sold": [
+        {
+            "name": "Aural Decoy",
+            "location": " sold by Griggs for 1000 ",
+            "obtained": false
+        },
+        {
+            "name": " Fall Control",
+            "location": " sold by Griggs for 1500 ",
+            "obtained": false
+        },
+        {
+            "name": " Soul Arrow",
+            "location": " sold by Big Hat Logan for 1000 ",
+            "obtained": false
+        },
+        {
+            "name": " Heavy Soul Arrow",
+            "location": " sold by Big Hat Logan for 2000 ",
+            "obtained": false
+        },
+        {
+            "name": " Magic Weapon",
+            "location": " sold by Big Hat Logan for 3000 ",
+            "obtained": false
+        },
+        {
+            "name": " Magic Shield",
+            "location": " sold by Big Hat Logan for 3000 ",
+            "obtained": false
+        },
+        {
+            "name": " Great Soul Arrow",
+            "location": " sold by Big Hat Logan for 6000 ",
+            "obtained": false
+        },
+        {
+            "name": " Great Heavy Soul Arrow",
+            "location": " sold by Big Hat Logan for 8000 ",
+            "obtained": false
+        },
+        {
+            "name": " Homing Soulmass",
+            "location": " sold by Big Hat Logan for 20000 ",
+            "obtained": false
+        },
+        {
+            "name": " Crystal Magic Weapon",
+            "location": " sold by Big Hat Logan for 20000 ",
+            "obtained": false
+        },
+        {
+            "name": " Homing Crystal Soulmass",
+            "location": " sold by Big Hat Logan for 30000 ",
+            "obtained": false
+        },
+        {
+            "name": " Soul Spear",
+            "location": " sold by Big Hat Logan for 40000 ",
+            "obtained": false
+        },
+        {
+            "name": " Crystal Soul Spear",
+            "location": " sold by Big Hat Logan for 50000 ",
+            "obtained": false
+        },
+        {
+            "name": " Cast Light",
+            "location": " sold by Dusk of Oolacile for 1000 ",
+            "obtained": false
+        },
+        {
+            "name": " Hidden Weapon",
+            "location": " sold by Dusk of Oolacile for 2000 ",
+            "obtained": false
+        },
+        {
+            "name": "  Hidden Body",
+            "location": " sold by Dusk of Oolacile for 2000 ",
+            "obtained": false
+        },
+        {
+            "name": " Chameleon",
+            "location": " sold by Dusk of Oolacile for 3000 ",
+            "obtained": false
+        },
+        {
+            "name": " Repair",
+            "location": " sold by Dusk of Oolacile for 10000 ",
+            "obtained": false
+        },
+        {
+            "name": " Resist Curse",
+            "location": " sold by Ingward for 5000 ",
+            "obtained": false
+        }
+    ],
+    "drop": [
+        {
+            "name": "Remedy",
+            "location": "found in a chest in Blighttown across a precarious tree branch path near the top of the big wheel lift system",
+            "obtained": false
+        },
+        {
+            "name": "Hush",
+            "location": "found on a corpse in Sen's Fortress near the interior area with rolling boulders",
+            "obtained": false
+        },
+        {
+            "name": "Strong Magic Shield",
+            "location": "found in a chest in the Duke's Archives near a respawning Channeler enemy",
+            "obtained": false
+        },
+        {
+            "name": "Great Magic Weapon",
+            "location": "found on the chandelier in Anor Londo which must be cut down from the rafters above",
+            "obtained": false
+        }
+    ],
+    "covenant": [],
+    "npc": [
+        {
+            "name": "White Dragon Breath",
+            "location": "dropped by Big Hat Logan after he goes crazy in the Duke's Archives and relocates to the room where you originally were killed by Seath.",
+            "obtained": false
+        }
+    ]
+}
