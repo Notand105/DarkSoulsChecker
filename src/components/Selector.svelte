@@ -15,12 +15,13 @@
 </script>
 
 <nav
-    class="rounded flex justify-center md:w-2/3 m-auto w-10/12 p-4 my-4 sticky top-2 z-10 bg-zinc-900 overflow-hidden"
+    class="rounded flex justify-center  m-auto w-fit p-2 my-4 sticky top-2 z-10 bg-zinc-900 overflow-hidden"
 >
     <ul class="flex gap-2 flex-wrap justify-center items-center w-full">
+        
         <li
             class:b={$Mode[0].selected}
-            class="rounded border border-transparent p-2 bg-zinc-700 hover:bg-zinc-800 hover:shadow-slate-100 hover:border-white trans"
+            class="rounded border border-transparent p-2 bg-zinc-950 hover:bg-zinc-800 hover:shadow-slate-400 hover:border-white trans"
         >
             <button on:click={() => handleClick(0)} class="text-center w-full"
                 >Bosses</button
@@ -50,6 +51,22 @@
                 >Magic</button
             >
         </li>
+        <li
+            class:b={$Mode[4].selected}
+            class="rounded border border-transparent p-2 bg-zinc-950 hover:bg-zinc-800 hover:shadow-slate-400 hover:border-white trans"
+        >
+            <button on:click={() => handleClick(4)} class="text-center w-full"
+                >Story</button
+            >
+        </li>
+        <li
+            class:b={$Mode[5].selected}
+            class="rounded border border-transparent p-2 bg-zinc-950 hover:bg-zinc-800 hover:shadow-slate-400 hover:border-white trans"
+        >
+            <button on:click={() => handleClick(5)} class="text-center w-full"
+                >Knight´s Honor</button
+            >
+        </li>
     </ul>
 </nav>
 
@@ -58,6 +75,6 @@
         transition: 0.2s ease-in-out;
     }
     .b {
-        border: 1px solid white;
+        border: 2px solid white;
     }
 </style>

@@ -1,5 +1,5 @@
 <script>
-    import { List } from "../stores/miracles.store";
+    import { List } from "../stores/honor_store";
     import Card from "./Card.svelte";
     export let title;
     export let arr;
@@ -32,7 +32,7 @@
                 class:gray={miracle.obtained}
                 class="flex-col justify-center items-center md:w-2/5 w-full relative cursor-pointer yellow rounded"
             >
-                <Card name={miracle.name} description={miracle.location} />
+                <Card name={miracle.name} description={miracle.description} />
             </div>
         {/each}
     </div>
@@ -53,6 +53,6 @@
         opacity: 0.8;
     }
     .yellow {
- background-image: linear-gradient(to right top, #b45309, #c56509, #d6770a, #e68a0a, #f59e0b);
+        background-image: linear-gradient(to right top, #2e1a27, #3e1b32, #4f1b3d, #611847, #731251);
     }
 </style>

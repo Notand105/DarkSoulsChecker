@@ -12,23 +12,23 @@
                 }
                 break;
             case "map":
-                for (let i = 0; i < $List.sold; i++) {
-                    if ($List.sold[i].name == name) {
-                        $List.sold[i].obtained = !$List.sold[i].obtained;
+                for (let i = 0; i < $List.drop; i++) {
+                    if ($List.drop[i].name == name) {
+                        $List.drop[i].obtained = !$List.drop[i].obtained;
                     }
                 }
                 break;
             case "covenant":
-                for (let i = 0; i < $List.sold; i++) {
-                    if ($List.sold[i].name == name) {
-                        $List.sold[i].obtained = !$List.sold[i].obtained;
+                for (let i = 0; i < $List.covenant; i++) {
+                    if ($List.covenant[i].name == name) {
+                        $List.covenant[i].obtained = !$List.sold[i].obtained;
                     }
                 }
                 break;
             case "npc":
-                for (let i = 0; i < $List.sold; i++) {
-                    if ($List.sold[i].name == name) {
-                        $List.sold[i].obtained = !$List.sold[i].obtained;
+                for (let i = 0; i < $List.npc; i++) {
+                    if ($List.npc[i].name == name) {
+                        $List.npc[i].obtained = !$List.npc[i].obtained;
                     }
                 }
                 break;

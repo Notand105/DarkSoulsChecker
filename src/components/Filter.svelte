@@ -3,6 +3,8 @@
     import ListOfSorceries from "../components/ListOfSorceries.svelte";
     import ListOfPiromancies from "../components/ListOfPiromancy.svelte";
     import ListOfBosses from "../components/ListOfBosses.svelte";
+    import ListOfStory from "./ListOfStory.svelte";
+    import ListOfHonor from './ListOfHonor.svelte'
     import { Mode } from "../stores/mode_store";
 </script>
 
@@ -18,5 +20,11 @@
     {/if}
     {#if $Mode[3].selected}
         <ListOfSorceries />
+    {/if}
+    {#if $Mode[4].selected}
+        <ListOfStory />
+    {/if}
+    {#if $Mode[5].selected}
+        <ListOfHonor />
     {/if}
 </div>

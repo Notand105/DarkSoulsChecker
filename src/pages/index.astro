@@ -2,6 +2,7 @@
 import Selector from '../components/Selector.svelte'
 import Hero from "../components/Hero.astro";
 import Filter from "../components/Filter.svelte"
+
 ---
 
 <html lang="en">
@@ -22,7 +23,7 @@ import Filter from "../components/Filter.svelte"
 		<Hero />
 		<Selector client:only />
 		<Filter client:only />
-		
+		<footer class="w-full my-20 flex justify-center items-center text-sm "><span id="year"></span></footer>
 	</body>
 </html>
 
@@ -34,3 +35,10 @@ import Filter from "../components/Filter.svelte"
 		font-family: "Poppins", sans-serif;
 	}
 </style>
+<script>
+	let year = document.getElementById('year')
+	let d = new Date()
+	if(year){
+		year.innerText = 'Darks souls checker ' + String( d.getFullYear() )
+	}
+</script>

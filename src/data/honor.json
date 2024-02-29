@@ -113,7 +113,7 @@
             "obtained": false
         },
         {
-            "name": "Crescent Axe*",
+            "name": "Crescent Axe",
             "description": "Acquired by killing Patches, or it can be purchased from him when he moves to Firelink Shrine.",
             "obtained": false
         },
@@ -123,94 +123,7 @@
             "obtained": false
         },
         {
-            "name": "Giant's Halberd*",
-            "description": "Rare random drop from the giant gold knights in Anor Londo (whilst sunlit). It can more easily be purchased from the Giant Blacksmith for 5000 souls.",
-            "obtained": false
-        },
-        {
-            "name": "Grant ",
-            "description": "Acquired by killing NPC invader Paladin Leeroy. He will invade you in The Tomb of Giants just before Nito's domain, down near the area that overlooks the distant Ash Lake.",
-            "obtained": false
-        },
-        {
-            "name": "Sanctus ",
-            "description": "Acquired by killing NPC invader Paladin Leeroy. He will invade you in The Tomb of Giants just before Nito's domain, down near the area that overlooks the distant Ash Lake.",
-            "obtained": false
-        },
-        {
-            "name": "Silver Knight Shield",
-            "description": "Anor Londo. Random drop from any Silver Knight.",
-            "obtained": false
-        },
-        {
-            "name": "Silver Knight Spear",
-            "description": "Anor Londo. Random drop from Spear-wielding Silver Knights.",
-            "obtained": false
-        },
-        {
-            "name": "Silver Knight Straight Sword",
-            "description": "Anor Londo.Random drop from Sword-wielding Silver Knights.",
-            "obtained": false
-        },
-        {
-            "name": "Stone Greatshield",
-            "description": "Darkroot Garden. Random drop from the Stone Knights.",
-            "obtained": false
-        },
-        {
-            "name": "Stone Greatsword",
-            "description": "Darkroot Garden. Rare random drop from the Stone Knights. Can more easily be purchased from Shiva of the East, if you are a member of the Forest Covenant.",
-            "obtained": false
-        }
-    ],
-    "trasure": [
-        {
-            "name": "Black Knight Greataxe",
-            "description": "Random drop from Axe-wielding Black knights.",
-            "obtained": false
-        },
-        {
-            "name": "Black Knight Greatsword",
-            "description": "Random drop from Greatsword-wielding Black Knights.",
-            "obtained": false
-        },
-        {
-            "name": "Black Knight Halberd",
-            "description": "Random drop from Halberd-wielding Black Knights.",
-            "obtained": false
-        },
-        {
-            "name": "Black Knight Shield",
-            "description": "Random drop from any Black Knight.",
-            "obtained": false
-        },
-        {
-            "name": "Black Knight Sword",
-            "description": "Random drop from any Sword-Wielding Black Knight.",
-            "obtained": false
-        },
-        {
-            "name": "Channeler's Trident*",
-            "description": "Rare random drop from Channelers. Three respawning channelers can be found in The Duke's Archives. (Thanks to Waggonforce for confirming * weapons)",
-            "obtained": false
-        },
-        {
-            "name": "Crest Shield",
-            "description": "Found in the Undead Asylum (revisited). Acquired as drop from the now hollow Oscar who first gave you the Estus Flask.",
-            "obtained": false
-        },
-        {
-            "name": "Crescent Axe*",
-            "description": "Acquired by killing Patches, or it can be purchased from him when he moves to Firelink Shrine.",
-            "obtained": false
-        },
-        {
-            "name": "Demon's Spear",
-            "description": "Rare Random drop from the Bat Wing Demons in Anor Londo (whilst sunlit). Can also be purchased from Shiva of the East in Blighttown, if you are a member of the Forest Hunter's Covenant.",
-            "obtained": false
-        },
-        {
-            "name": "Giant's Halberd*",
+            "name": "Giant's Halberd",
             "description": "Rare random drop from the giant gold knights in Anor Londo (whilst sunlit). It can more easily be purchased from the Giant Blacksmith for 5000 souls.",
             "obtained": false
         },
@@ -258,7 +171,7 @@
         },
         {
             "name": "Gravelord Sword",
-            "description": "Given as a gift when joining Gravelord Servant Covenant. (confirmed by SilverKnightDragon)",
+            "description": "Given as a gift when joining Gravelord Servant Covenant.",
             "obtained": false
         }
     ],
