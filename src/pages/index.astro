@@ -1,8 +1,7 @@
 ---
-import Selector from '../components/Selector.svelte'
+import Selector from "../components/Selector.svelte";
 import Hero from "../components/Hero.astro";
-import Filter from "../components/Filter.svelte"
-
+import Filter from "../components/Filter.svelte";
 ---
 
 <html lang="en">
@@ -18,13 +17,27 @@ import Filter from "../components/Filter.svelte"
 			href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
 			rel="stylesheet"
 		/>
+		<meta
+			name="description"
+			content="Dark souls trophies and boss fights tracker "
+		/>
+		<meta
+			name="keywords"
+			content="dark souls, dark souls trophies, dark souls achivements, dark souls bosses"
+		/>
+		<meta name="author" content="Notand105" />
 	</head>
 	<body>
-		<span class="w-full text-sm text-center flex justify-center p-2">Spoiler Alert! Proceed with caution as the following tool contains major plot details from the main story of Dark Souls.</span>
+		<span class="w-full text-sm text-center flex justify-center p-2"
+			>Spoiler Alert! Proceed with caution as the following tool contains
+			major plot details from the main story of Dark Souls.</span
+		>
 		<Hero />
 		<Selector client:only />
 		<Filter client:only />
-		<footer class="w-full my-20 flex justify-center items-center text-sm "><span id="year"></span></footer>
+		<footer class="w-full my-20 flex justify-center items-center text-sm">
+			<span id="year"></span>
+		</footer>
 	</body>
 </html>
 
@@ -35,14 +48,14 @@ import Filter from "../components/Filter.svelte"
 		overflow-x: hidden;
 		font-family: "Poppins", sans-serif;
 	}
-	span{
+	span {
 		background-color: #0c0708;
 	}
 </style>
 <script>
-	let year = document.getElementById('year')
-	let d = new Date()
-	if(year){
-		year.innerText = 'Darks souls checker ' + String( d.getFullYear() )
+	let year = document.getElementById("year");
+	let d = new Date();
+	if (year) {
+		year.innerText = "Darks souls checker " + String(d.getFullYear());
 	}
 </script>

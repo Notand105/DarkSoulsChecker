@@ -33,7 +33,7 @@
             >
                 <img
                     class="aspect-auto rounded-t-md"
-                    src={boss.image}
+                    src={'/darksoulstracker'+ boss.image}
                     alt={boss.name}
                     loading="lazy"
                 />
