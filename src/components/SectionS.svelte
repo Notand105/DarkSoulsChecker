@@ -54,5 +54,7 @@
     }
     .yellow {
         background-image: linear-gradient(to right top, #08224a, #123569, #1c488b, #245dae, #2c73d2);
+        transition: 0.3s ease;
     }
+    
 </style>

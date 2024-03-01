@@ -62,8 +62,8 @@
             </div>
         {/each}
     </div>
-    <div class="flex justify-center my-4">
-        <button on:click={resetBosses} class="secondaryBg p-4 rounded w-1/2"
+    <div class="flex justify-center my-4 mt-8">
+        <button on:click={resetBosses} class="secondaryBg p-4 rounded w-full md:w-1/2"
             >Reset bosses</button
         >
     </div>
@@ -87,8 +87,13 @@
         background-color:#170E0F ;
 
     }
+    
     .accent {
         background-color: #8a2730;
+        transition: .2s ease;
+    }
+    .accent:hover {
+        background-color: #691f25;
     }
     /* .accentText{
         color: #bd6946;
@@ -106,5 +111,7 @@
     .secondaryBg {
         background-color: #dd3a47;
     }
-
+    .secondaryBg:hover {
+        background-color: #c43440;
+    }
 </style>

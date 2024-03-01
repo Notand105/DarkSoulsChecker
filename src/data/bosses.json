@@ -11,7 +11,7 @@
     {
         "id": 1,
         "name": "Taurus Demon",
-        "location": "Undead Burf",
+        "location": "Undead Burg",
         "health": 1215,
         "souls": 3000,
         "image": "/TaurusDemon.webp",
@@ -184,7 +184,7 @@
         "id": 20,
         "name": "The Bed of Chaos",
         "location": "Lost Izalith",
-        "health": 2,
+        "health": 1,
         "souls": 60000,
         "image": "/bed.jpg",
         "defeated": false

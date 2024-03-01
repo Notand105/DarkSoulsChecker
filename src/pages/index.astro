@@ -20,6 +20,7 @@ import Filter from "../components/Filter.svelte"
 		/>
 	</head>
 	<body>
+		<span class="w-full text-sm text-center flex justify-center p-2">Spoiler Alert! Proceed with caution as the following tool contains major plot details from the main story of Dark Souls.</span>
 		<Hero />
 		<Selector client:only />
 		<Filter client:only />
@@ -33,6 +34,9 @@ import Filter from "../components/Filter.svelte"
 		color: white;
 		overflow-x: hidden;
 		font-family: "Poppins", sans-serif;
+	}
+	span{
+		background-color: #0c0708;
 	}
 </style>
 <script>
